@@ -22,5 +22,7 @@ Dependencies :
 --------------------------------------
 Run Flutter pub get para obter dependências
 
+--------------------------------------
 
-
+Clone repo: 
+git clone https://github.com/SelimSayeh/testEscribo.git
